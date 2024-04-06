@@ -1,1 +1,1 @@
-console.log("Would you like to some eat food ?")
+console.log("Would you like to some eat food today ?")
